@@ -32,11 +32,9 @@ Our team work in three categories and deploying in three different networks
 
 ### 🌐 ENS (Sepolia)
 
-- ### Contract Deployed on ENS
-
-  1. [CriptoAventuraENS.sol](https://sepolia.etherscan.io/address/0x1BA93249Ac3B109E271E20fE5ca7A7C6dBdd6e2A) - This contracts address has an associated ENS Domain (aventuraweb3.eth) and it can be verified in the following [link](https://adraffy.github.io/ens-normalize.js/test/resolver.html?sepolia#0x1BA93249Ac3B109E271E20fE5ca7A7C6dBdd6e2A)
-  2. [Dapp - demo](https://aventura-web3-ens.vercel.app/) - This show our decentralize application running sepolian network.
-  3. [Code](https://github.com/ale4a/aventura-web3)
+1. [CriptoAventuraENS.sol](https://sepolia.etherscan.io/address/0x1BA93249Ac3B109E271E20fE5ca7A7C6dBdd6e2A) - This contracts address has an associated ENS Domain (aventuraweb3.eth) and it can be verified in the following [link](https://adraffy.github.io/ens-normalize.js/test/resolver.html?sepolia#0x1BA93249Ac3B109E271E20fE5ca7A7C6dBdd6e2A)
+2. [Dapp - demo](https://aventura-web3-ens.vercel.app/) - This show our decentralize application running sepolian network.
+3. [Code](https://github.com/ale4a/aventura-web3)
 
 ### 📜 Scroll zkEVM
 
