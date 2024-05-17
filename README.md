@@ -1,7 +1,7 @@
 # Cripto Aventura Latam ENS
 
 <h4 align="center">
-  <a href="https://aventura-web3-ens.vercel.app/">Landing page</a>
+  <a href="https://aventura-web3-ens.vercel.app/">Landing page :)</a>
 </h4>
 
 ## link verficador de que el contrato tiene un ENS asignado
